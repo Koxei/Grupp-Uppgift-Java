@@ -1,3 +1,5 @@
+package dev.library;
+
 public class Book {
     private String name;
     private String genre;

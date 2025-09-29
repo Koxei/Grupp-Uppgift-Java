@@ -1,3 +1,5 @@
+package dev.library;
+
 import java.util.Scanner;
 
 public class Program {
